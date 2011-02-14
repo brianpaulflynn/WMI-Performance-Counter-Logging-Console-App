@@ -62,6 +62,7 @@ Module Module1
         Catch ex As Exception
             EventLog.WriteEntry("Application", "Inner call to LogCounters failed.  " & ex.ToString())
             Console.WriteLine("Inner call to LogCounters failed.  " & ex.ToString())
+            Diagnostics.PerformanceCounter.CloseSharedResources() ' This can clear buffer overrun issues
         End Try
     End Sub
 End Module
