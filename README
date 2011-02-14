@@ -1,0 +1,5 @@
+How to dissect IIS request processing activity and identify performance bottlenecks. This technique can be used to positively diagnose thread starvation resulting from downstream resource delays and what can be done to resolve that by adding capacity, resilience, high availability and scalability. 
+
+http://www.slideboom.com/presentations/300804/Building-A-WMI-Performance-Data-Warehouse-To-Identify-IIS-Capacity-Bottlenecks
+
+http://www.linkedin.com/in/brianpaulflynn
