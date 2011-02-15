@@ -1,0 +1,1 @@
+C:\Users\flynnb\Documents\Visual Studio 2010\Projects\PerformanceCounter_svn\wmidw\PerformanceCounter\bin\Debug\PerformanceCounter.exe.config

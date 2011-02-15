@@ -1,0 +1,11 @@
+C:\Users\flynnb\Documents\Visual Studio 2010\Projects\PerformanceCounter_svn\wmidw\PerformanceCounter\bin\Release\PerformanceCounter.exe.config
+C:\Users\flynnb\Documents\Visual Studio 2010\Projects\PerformanceCounter_svn\wmidw\PerformanceCounter\bin\Release\PerformanceCounter.exe
+C:\Users\flynnb\Documents\Visual Studio 2010\Projects\PerformanceCounter_svn\wmidw\PerformanceCounter\bin\Release\PerformanceCounter.pdb
+C:\Users\flynnb\Documents\Visual Studio 2010\Projects\PerformanceCounter_svn\wmidw\PerformanceCounter\bin\Release\PerformanceCounter.xml
+C:\Users\flynnb\Documents\Visual Studio 2010\Projects\PerformanceCounter_svn\wmidw\PerformanceCounter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\flynnb\Documents\Visual Studio 2010\Projects\PerformanceCounter_svn\wmidw\PerformanceCounter\obj\x86\Release\PerformanceCounter.Resources.resources
+C:\Users\flynnb\Documents\Visual Studio 2010\Projects\PerformanceCounter_svn\wmidw\PerformanceCounter\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\flynnb\Documents\Visual Studio 2010\Projects\PerformanceCounter_svn\wmidw\PerformanceCounter\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\flynnb\Documents\Visual Studio 2010\Projects\PerformanceCounter_svn\wmidw\PerformanceCounter\obj\x86\Release\PerformanceCounter.exe
+C:\Users\flynnb\Documents\Visual Studio 2010\Projects\PerformanceCounter_svn\wmidw\PerformanceCounter\obj\x86\Release\PerformanceCounter.xml
+C:\Users\flynnb\Documents\Visual Studio 2010\Projects\PerformanceCounter_svn\wmidw\PerformanceCounter\obj\x86\Release\PerformanceCounter.pdb
